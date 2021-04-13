@@ -15,4 +15,18 @@ namespace Sphinx.Models
       return (Answer == userAnswer);
     }
   }
+  // public class RiddleList
+  // {
+  //   public List Riddles { get; set; }
+  //   public RiddleList (List list)
+  //   {
+  //     Riddles = list;
+  //   }
+  //   public List randomizeList()
+  //   {
+  //     Random riddleSelect = new Random();
+  //     int num = riddleSelect.Next(1,3);
+  //     var selectedRiddle = List<RiddlesList>[num]
+  //   }
+  // }
 }
