@@ -1,0 +1,15 @@
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/obj/Debug/net5.0/Sphinx.csprojAssemblyReference.cache
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/obj/Debug/net5.0/Sphinx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/obj/Debug/net5.0/Sphinx.AssemblyInfoInputs.cache
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/obj/Debug/net5.0/Sphinx.AssemblyInfo.cs
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/obj/Debug/net5.0/Sphinx.csproj.CoreCompileInputs.cache
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/bin/Debug/net5.0/Sphinx.deps.json
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/bin/Debug/net5.0/Sphinx.runtimeconfig.json
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/bin/Debug/net5.0/Sphinx.runtimeconfig.dev.json
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/bin/Debug/net5.0/Sphinx.dll
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/bin/Debug/net5.0/ref/Sphinx.dll
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/bin/Debug/net5.0/Sphinx.pdb
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/obj/Debug/net5.0/Sphinx.dll
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/obj/Debug/net5.0/ref/Sphinx.dll
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/obj/Debug/net5.0/Sphinx.pdb
+/Users/KarlDrendel/Desktop/Sphinx.Solution/Sphinx/obj/Debug/net5.0/Sphinx.genruntimeconfig.cache
